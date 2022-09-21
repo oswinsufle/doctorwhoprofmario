@@ -1,0 +1,61 @@
+body {
+    background-color:#344955 ;
+ }
+ #trailers{
+    margin-inline: 20px;
+ }
+ .carde {
+     background-color: white;
+     color: black;
+    width: 80%;
+    margin: auto;
+    padding-top: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+
+ }
+ #perguntas{
+   width: 100%;
+   height: 60px;
+   background: #24353f ;
+   float: left;
+   margin: auto;
+   margin-top: 50px;
+ }
+#trailer{
+   width: 100%;
+   height: 60px;
+   background: #24353f ;
+   float: left;
+   margin: auto;
+   margin-top: 50px;
+ }
+#container {
+   width: 100%;
+   height: 100px;
+   background: #24353f ;
+   margin: auto;
+   margin-top: 80px;
+   padding: 40px;
+ }
+ .p {
+   font-size: 5px;
+ }
+  #criadores {
+   color: rgb(199, 199, 199);
+      font-size: 30px;
+  } 
+#nomes{
+   color:white;
+   font-size: 20px;
+}
+.card{
+   background-color:#24353f;
+   color: white;
+}
+
+.exampleModalLabel
+   {
+      background-color:#344955
+}
